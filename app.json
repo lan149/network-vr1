@@ -1,18 +1,18 @@
 {
-    "name": "V2Ray",
+    "name": "lan149-VR-1",
     "description": "Deploy V2ray on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "168d1fc1-a764-4a06-b95f-b1f16800eecf"
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/"
+            "value": "/myfamily/happy"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "http://web.qysite.com/",
+    "repository": "https://github.com/lan149/network-vr1",
     "stack": "container"
 }
