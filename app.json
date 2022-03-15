@@ -1,11 +1,11 @@
 {
-    "name": "lan149-VR-1",
+    "name": "lan149-VR-2",
     "description": "Deploy V2ray on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "1111111111"
+            "value": "e54fc93b-4c38-4987-8de5-6cb7f40b85c8"
         },
         "WSPATH": {
             "description": "WebSocket Path",
@@ -13,6 +13,6 @@
         }
     },
     "website": "http://web.qysite.com/",
-    "repository": "https://github.com/lan149/network-vr1",
+    "repository": "https://github.com/lan149/network-vr2",
     "stack": "container"
 }
