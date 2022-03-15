@@ -5,11 +5,11 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "e54fc93b-4c38-4987-8de5-6cb7f40b85c8"
+            "value": "111111"
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/myfamily/happy"
+            "value": "1111111"
         }
     },
     "website": "http://web.qysite.com/",
